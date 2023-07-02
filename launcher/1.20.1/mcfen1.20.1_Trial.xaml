@@ -20,7 +20,7 @@ Text="查看特别提示" EventType="弹出窗口" EventData="特别提示|     
 <local:MyCard Title="快捷启动 (点击展开)" Margin="0,-18,0,26" CanSwap="True" IsSwaped="True" >
     <StackPanel Margin="25,40,23,15">
       <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
-                 Text="官方原始版本 (若因性能使用该版,请先尝试Lite版)" />
+                 Text="官方原始版本 (若因性能使用该版,请先尝试高清光影 Lite版)" />
       <local:MyButton Margin="0,8,0,10" Width="250" Height="32"
                  Text="启动 Minecraft 1.20.1 原版" ToolTip="低配电脑建议先尝试下面的 Lite 版" EventType="启动游戏" EventData="1.20.1" />
 	  <TextBlock TextWrapping="Wrap" Foreground="#191970" FontSize="12"
